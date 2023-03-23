@@ -33,6 +33,10 @@ pip
 Also note that pip is a command in python which is automatically installed during the python installation 
 `
 
+# How to download older versions of python
+
+
+
 # More info-
 
 `
