@@ -136,6 +136,14 @@ mytext = "Hello World"
 print (mytext)
 ```
 
+Too know more about variables in python, click on the link below -
+<a href="https://www.w3schools.com/python/python_variables.asp">
+
+```
+https://www.w3schools.com/python/python_variables.asp
+```
+</a>
+
 # More info-
 
 `
