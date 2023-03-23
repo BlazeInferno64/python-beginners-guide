@@ -57,7 +57,7 @@ Once you reach this part download the version of your choice
 
 Once done check go to your task bar (if you are on windows) and on the search box type IDLE Python and click on first option which appears and you are all set :)
 
-# Create a basic program in Python
+# Knowing about two shells (mode) of python 
 
 Basics before starting to code in python 
 
@@ -76,6 +76,16 @@ The Interactive Mode (Shell) looks somewhat like this -
 And The Script Mode (Shell) looks somewhat like this -
 
 <img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2020/08/text-editor.jpg" />
+
+<br>
+
+Learn more about this modes here , click the link below -
+<a href="https://www-geeksforgeeks-org.cdn.ampproject.org/v/s/www.geeksforgeeks.org/what-is-the-difference-between-interactive-and-script-mode-in-python-programming/amp/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16795850663044&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-the-difference-between-interactive-and-script-mode-in-python-programming%2F">
+
+```
+https://www-geeksforgeeks-org.cdn.ampproject.org/v/s/www.geeksforgeeks.org/what-is-the-difference-between-interactive-and-script-mode-in-python-programming/amp/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16795850663044&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-the-difference-between-interactive-and-script-mode-in-python-programming%2F
+```
+</a>
 
 <br>
 
