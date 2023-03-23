@@ -148,12 +148,31 @@ mytext = "Hello World"
 print (mytext)
 ```
 
-Too know more about variables in python, click on the link below -
+To know more about variables in python, click on the link below -
 
 <a href="https://www.w3schools.com/python/python_variables.asp">
 
 ```
 https://www.w3schools.com/python/python_variables.asp
+```
+</a>
+
+
+Time to move to the terminal part
+|------|
+
+Python can also be directly accessed in your terminal by opening it and typing the following command as below
+
+```
+python
+```
+
+For more info please click on the link box below -
+
+<a href="https://www.datacamp.com/tutorial/running-a-python-script" >
+
+```
+https://www.datacamp.com/tutorial/running-a-python-script
 ```
 </a>
 
