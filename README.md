@@ -6,12 +6,15 @@ Hello everyone this is just a simple repository to get you some basic knowledge 
 It's very simple just go to python's official website 
 or just click below -
 
+<img src="./IMG_20230323_200116.jpg" />
+
 <a href="https://www.python.org/downloads/">
 
 ```
 https://www.python.org/downloads/
 ```
 </a>
+
 
 # More info-
 
