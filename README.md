@@ -49,7 +49,7 @@ Once you reach this part download the version of your choice
 
 <img src="https://cdn.windowsreport.com/wp-content/uploads/2021/03/Unresponsive-Taskbar-in-Windows-10-11-886x590.jpg" />
 
-Once done check go to your task bar (if you are on windows) and ok the search box type IDLE Python and click on first option which appears and you are all set :)
+Once done check go to your task bar (if you are on windows) and on the search box type IDLE Python and click on first option which appears and you are all set :)
 
 # More info-
 
