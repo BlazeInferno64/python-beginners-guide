@@ -51,6 +51,14 @@ Once you reach this part download the version of your choice
 
 Once done check go to your task bar (if you are on windows) and on the search box type IDLE Python and click on first option which appears and you are all set :)
 
+# Create a basic program in Python
+
+Important
+<br>
+`
+Python has two modes to work on with, first it has the interactive mode which is used for generating simple outputs and second the script mode which is used for making many complex programs, also here script mode is necessary to for lengthy programs because in the interactive mode the outputs of the statements are rather compressed between the statements and in the in the interactive mode the output can be obtained by pressing F5 on our keyboard 
+`
+
 # More info-
 
 `
