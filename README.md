@@ -112,7 +112,29 @@ https://www.programiz.com/python-programming/keyword-list
 ```
 </a>
 
+# Now Let's create a simple hello world programe in the script mode 
 
+To open the script shell, just press
+```
+Ctrl + N
+```
+
+On your keyboard
+
+And then the script shell will open
+
+After that type the code below to get the output -
+
+```
+print("Hello World")
+```
+
+Or you can assign Hello World to a variable and print the value of the variable by the following code -
+
+```
+mytext = "Hello World"
+print (mytext)
+```
 
 # More info-
 
