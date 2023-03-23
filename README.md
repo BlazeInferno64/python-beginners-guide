@@ -35,8 +35,15 @@ Also note that pip is a command in python which is automatically installed durin
 
 # How to download older versions of python
 
+`
+However if you want to download older versions, scroll down then it will basically show like this 
+`
 
+<img src="./IMG_20230323_201010.jpg" />
 
+`
+Once you reach this part download the version of your choice 
+`
 # More info-
 
 `
