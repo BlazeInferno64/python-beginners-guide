@@ -15,6 +15,23 @@ https://www.python.org/downloads/
 ```
 </a>
 
+`
+After installation is done open your terminal and type the following command to confirm if it has been correctly installed or not
+`
+
+```
+python
+```
+
+Or
+
+```
+pip 
+```
+
+`
+Also note that pip is a command in python which is automatically installed during the python installation 
+`
 
 # More info-
 
