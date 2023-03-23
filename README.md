@@ -15,6 +15,12 @@ https://www.python.org/downloads/
 ```
 </a>
 
+It would look like this, install it as your requirement -
+
+<img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2020/08/python-installation.jpg" />
+
+
+
 `
 After installation is done open your terminal and type the following command to confirm if it has been correctly installed or not
 `
@@ -63,10 +69,18 @@ Python has two modes to work on with, first it has the interactive mode which is
 
 <br>
 
-Let's start with some basic program in the interactive mode after that we would be moving to the script mode
-|----|
+The Interactive Mode (Shell) looks somewhat like this -
+
+<img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2020/08/interactive-shell.jpg" />
+
+And The Script Mode (Shell) looks somewhat like this -
+
+<img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2020/08/text-editor.jpg" />
+
 <br>
 
+Let's start with some basic program in the interactive mode after that we would be moving to the script mode
+|----|
 # Commad to print Hello World in Python in the interactive mode 
 
 ```
@@ -77,6 +91,18 @@ After typing this the output comes in this format
 
 Hello World 
 |---|
+
+Please note that there is a difference between `Print` & `print`,
+You can find more information about keywords of python here -
+
+<a href="https://www.programiz.com/python-programming/keyword-list">
+
+```
+https://www.programiz.com/python-programming/keyword-list
+```
+</a>
+
+
 
 # More info-
 
