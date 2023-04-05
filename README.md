@@ -76,7 +76,7 @@ Basics before starting to code in python
 <br>
 
 `
-Python has two modes to work on with, first it has the interactive mode which is used for generating simple outputs and second the script mode which is used for making many complex programs, also here script mode is necessary to for lengthy programs because in the interactive mode the outputs of the statements are rather compressed between the statements and in the interactive mode the output can be obtained by pressing F5 on our keyboard whenever we are done coding 
+Python has two modes to work on with, first it has the interactive mode which is used for generating simple outputs and second the script mode which is used for making many complex programs, also here script mode is necessary to for lengthy programs because in the interactive mode the outputs of the statements are rather compressed between the statements and in the script mode the output can be obtained by pressing F5 on our keyboard whenever we are done coding or want to run the code 
 `
 
 <br>
