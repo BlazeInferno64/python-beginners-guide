@@ -176,6 +176,59 @@ https://www.datacamp.com/tutorial/running-a-python-script
 ```
 </a>
 
+# If , elif and else statements in python
+
+`
+This statements are also called as conditional statements or control flow statements, because they execute the piece of code only when a given condition is true and also controls the flow of the program 
+`
+
+Basic syntax of if ,elif and else statements is given below -
+
+```
+if condition:
+   #Do something here
+else:
+   #Do something
+```
+
+If you want to know more about if, else statements then click on given link below -
+
+<a href="https://www.programiz.com/python-programming/if-elif-else">
+
+```
+https://www.programiz.com/python-programming/if-elif-else
+```
+</a>
+
+<br>
+
+Let's create a simple python program using the if else statements 
+Here we will create a program to check whether nunber entered by user is even or odd
+|----|
+
+
+```
+num=int(input("Enter your number: "))
+
+if num%2==0 :
+    print("The number is even")
+
+else :
+    print("The number is odd")
+
+```
+
+Also if you wanna know about all the operators of python the checkout the link provided below -
+|----|
+
+<a href="https://www.w3schools.com/python/python_operators.asp">
+
+```
+https://www.w3schools.com/python/python_operators.asp
+```
+</a>
+
+
 # Important 
 
 This Readme.md file would soon get updated in a very short interval of time so for that make sure that you are following me on Github to stay updated about the latest changes I will commit to it
