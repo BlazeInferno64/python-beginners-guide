@@ -208,7 +208,7 @@ Here we will create a program to check whether nunber entered by user is even or
 
 
 ```
-num=int(input("Enter your number: "))
+num=int(input("Enter your number : "))
 
 if num%2==0 :
     print("The number is even")
