@@ -27,7 +27,7 @@ https://www.python.org/downloads/
 ```
 </a>
 
-It would look like this, install it as your requirement -
+After you have downloaded Python open It and a interface like this will appear, install it as your requirement -
 
 <img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2020/08/python-installation.jpg" />
 
