@@ -148,6 +148,11 @@ mytext = "Hello World"
 print (mytext)
 ```
 
+The output comes like this
+
+Hello world
+|------|
+
 To know more about variables in python, click on the link below -
 
 <a href="https://www.w3schools.com/python/python_variables.asp">
@@ -217,6 +222,11 @@ else :
     print("The number is odd")
 
 ```
+
+After you have done press F5 and the output will comes like this -
+
+<img src="./output.jpg" />
+
 
 Also if you wanna know about all the operators of python the checkout the link provided below -
 |----|
