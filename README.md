@@ -228,6 +228,20 @@ https://www.w3schools.com/python/python_operators.asp
 ```
 </a>
 
+   # Looping statements in python 
+   
+  ` loops are statements in python which keeps on execution unless a given condition is satisfied `
+   
+   Let's start with a simple example here
+   |-------------|
+   
+   ```
+   a="Hello World"
+   
+   while True:
+            print(a) # It is used if you want to loop something infinite times 
+   
+   ```
 
 # Important 
 
