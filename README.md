@@ -230,7 +230,7 @@ https://www.w3schools.com/python/python_operators.asp
 
    # Looping statements in python 
    
-  ` loops are statements in python which keeps on execution unless a given condition is satisfied `
+  ` loops are statements in python which keeps on executing unless a given condition is satisfied `
    
    Let's start with a simple example here
    |-------------|
@@ -330,10 +330,10 @@ Thank u for reading have a nice day :)
   Visitor count
 `
 <br>
-  <img src="https://profile-counter.glitch.me/blaizinginfernodragon123/count.svg" />
+  <img src="https://profile-counter.glitch.me/blazeinferno64/count.svg" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=blaizinginfernodragon123&left_color=black&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=blazeinferno64&left_color=black&right_color=blue)
 
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
@@ -353,7 +353,7 @@ BlazingInfernoDragon123 Channel
 Want to subscribe to our channel directly ?Click Down👇
 `
 
-<a href="https://youtube.com/channel/UCsdLD0oB8Ui9EEE9WNSAAug" target="_blank">
+<a href="https://youtube.com/@InfernoBlaze64" target="_blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-subscription-icon.svg" style="border-radius:5px">
 </a>
 
@@ -377,7 +377,7 @@ Got any files to show me?Click Down👇
 Want to follow me on github?Click Down👇
 `
 
-<a href="https://github.com/blaizinginfernodragon123?tab=following" target="_blank">
+<a href="https://github.com/blazeinferno64?tab=following" target="_blank">
 <img src="https://cdn.neow.in/news/images/uploaded/2020/12/1608232185_github_logo_1.jpg" style="border-radius:5px">
 </a>
 
@@ -392,7 +392,7 @@ Support me on patreon?Click Down👇
 
 # View this Readme.md live in your browser as a website
 
-<a href="https://blaizinginfernodragon123.github.io/python-beginners-guide/">
+<a href="https://blazeinferno64.github.io/python-beginners-guide/">
 
 ```
 https://blaizinginfernodragon123.github.io/python-beginners-guide/
